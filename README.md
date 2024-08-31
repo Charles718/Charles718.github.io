@@ -9,8 +9,7 @@ https://data.nasdaq.com/institutional-investors
 ### A Course in Machine Learning
 by Hal Daumé III
 
-This is a beginner's guide to the world of Machine Learning. You canlearn about the book on the link below.
-https://ciml.info
+This is a beginner's guide to the world of Machine Learning. 
 You can download a free copy on the link below.
 http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf
 
