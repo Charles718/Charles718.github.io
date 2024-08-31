@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # Charles718.github.io
 
 ## The Nasdaq Data Linkis a great resource of data for people who want to make money from the stock markets. 
